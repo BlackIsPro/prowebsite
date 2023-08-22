@@ -1,0 +1,27 @@
+.jumbotron {
+    text-align: center;
+    background-image: url("assets/pexels-andrew-neel-3178786.jpg");
+    color: white;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 7px;
+}
+
+#header {
+    text-align: center;
+}
+.display-1 {
+    font-weight: bold;
+}
+#omg {
+    border-color: white;
+    color: white;
+    
+}
+
+#omg2 {
+    border-color: black;
+    
+}
+
